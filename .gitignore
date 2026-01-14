@@ -10,3 +10,7 @@ obj/
 # Rider / VS Code (optionnel)
 .idea/
 .vscode/
+
+# Visual Studio solution cache
+*.slnx
+
